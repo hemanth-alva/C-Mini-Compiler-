@@ -1,2 +1,2 @@
-# C-Mini-Compiler-
+# C++-Mini-Compiler-
 Project
